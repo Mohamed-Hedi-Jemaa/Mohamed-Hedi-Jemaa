@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hedi Jemaa!</h1>
 
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer <br>
+📝 I have a strong interest in Data Science and Artificial Intelligence <br>
+🔭 Working on Deep Learning & Machine Learning <br>
+🌱 Learning about Computer Vision and Machine Learning stuff <br>
+🌟 Main languages: Python, JavaScript <br>
+🚩 Interested in Full Stack Machine Learning Application development <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-hedi-jemaa&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-hedi-jemaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-hedi-jemaa" alt="mohamed-hedi-jemaa" /></a> </p>
