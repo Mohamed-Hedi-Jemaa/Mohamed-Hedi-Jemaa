@@ -1,6 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Mohamed Hedi Jemaa!</h1>
 
+<details open>
+  <summary> <b>About Me</b>: </summary>
+  
+- 5 years ago, I joined my first Davy Back Fight, and it challenged me to prove myself in AI.
+Since then, I’ve been competing with models, testing ideas, and pushing my limits in research.
+  
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer <br>
 📝 I have a strong interest in Data Science and Artificial Intelligence <br>
