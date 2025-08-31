@@ -13,7 +13,7 @@
 🌟 Main languages: Python, JavaScript <br>
 🚩 Interested in Full Stack Machine Learning Application development <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Hedi-Jemaa&theme=green-nur&exclude_days=Sat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Hedi-Jemaa&theme=green-nur&border_radius=5.6&card_width=808&card_height=361)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-hedi-jemaa&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-hedi-jemaa" /> </p>
 
