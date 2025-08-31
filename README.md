@@ -1,4 +1,4 @@
-![Greetings](./header.pbg)
+![Greetings](./header.png)
 <h1 align="center">Hi 👋, I'm Mohamed Hedi Jemaa!</h1>
 
 <details open>
