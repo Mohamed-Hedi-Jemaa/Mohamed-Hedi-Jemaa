@@ -1,4 +1,4 @@
-![Greetings](https://count-visitor-8aef2.web.app/api/profile.svg)
+![Greetings](./header.svg)
 
 <p align="center">
 <img src="https://count-visitor-8aef2.web.app/api/profile.svg" alt="Visitor Count" />
