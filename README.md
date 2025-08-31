@@ -7,6 +7,9 @@
 🌱 Learning about Computer Vision and Machine Learning stuff <br>
 🌟 Main languages: Python, JavaScript <br>
 🚩 Interested in Full Stack Machine Learning Application development <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Hedi-Jemaa&theme=green-nur&exclude_days=Sat)](https://git.io/streak-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-hedi-jemaa&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-hedi-jemaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-hedi-jemaa" alt="mohamed-hedi-jemaa" /></a> </p>
