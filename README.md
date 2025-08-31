@@ -1,6 +1,9 @@
 ![Greetings](./header.svg)
 <h1 align="center">Hi 👋, I'm Mohamed Hedi Jemaa!</h1>
 
+<p align="center">
+<img src="https://mohamed-hedi-jemaa.github.io/visitor-count/badge/mohamed-hedi-jemaa/visitor-count" alt="Visitor Count" />
+</p>
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer <br>
 📝 I have a strong interest in Data Science and Artificial Intelligence <br>
