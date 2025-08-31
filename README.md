@@ -15,7 +15,7 @@
 🌟 Main languages: Python, JavaScript <br>
 🚩 Interested in Full Stack Machine Learning Application development <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Hedi-Jemaa&theme=green-nur&border_radius=5.6&card_width=808&card_height=361)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Hedi-Jemaa&theme=blue-green&border_radius=5.6&card_width=808&card_height=361)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hedi-Jemaa" />
@@ -23,6 +23,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Hedi-Jemaa&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-hedi-jemaa&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-hedi-jemaa" /> </p>
 
