@@ -1,6 +1,7 @@
-![Greetings](./header.svg)
+![Greetings](https://count-visitor-8aef2.web.app/api/profile.svg)
+
 <p align="center">
-<img src="https://count-visitor-8aef2.web.app/badge/profile" alt="Visitor Count" />
+<img src="https://count-visitor-8aef2.web.app/api/profile.svg" alt="Visitor Count" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohamed Hedi Jemaa!</h1>
 
