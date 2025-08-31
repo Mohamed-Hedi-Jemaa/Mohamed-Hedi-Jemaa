@@ -1,9 +1,8 @@
 ![Greetings](./header.png)
-<h1 align="center">I'm Mohamed Hedi Jemaa!</h1>
 <p align="center">
 <img src="https://visitor-count.mohamedbechir-mejri-dev.workers.dev/api/Mohamed-Hedi-Jemaa" />
 </p>
-
+<h1 align="center">I'm Mohamed Hedi Jemaa!</h1>
 <details open>
   <summary> <b>About Me</b>: </summary>
 
