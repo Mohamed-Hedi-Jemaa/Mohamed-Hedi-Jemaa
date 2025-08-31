@@ -1,7 +1,4 @@
-![Greetings](./header.svg)
 
-
-  
 <h1 align="center">Hi 👋, I'm Mohamed Hedi Jemaa!</h1>
 
 -------------------------
