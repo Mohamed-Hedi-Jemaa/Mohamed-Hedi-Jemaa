@@ -1,6 +1,6 @@
 ![Greetings](./header.png)
 <p align="center">
-<img src="https://visitor-count.mohamedbechir-mejri-dev.workers.dev/api/MohamedBechirMejri" />
+<img src="https://visitor-count.mohamedbechir-mejri-dev.workers.dev/api/Mohamed-Hedi-Jemaa" />
 </p>
 <h1 align="center">I'm Mohamed Hedi Jemaa!</h1>
 <details open>
