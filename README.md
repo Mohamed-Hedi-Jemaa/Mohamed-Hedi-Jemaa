@@ -6,8 +6,9 @@
 <details open>
   <summary> <b>About Me</b>: </summary>
 
-  *5 years ago, I joined my first [**Davy Back Fight**](https://onepiece.fandom.com/wiki/Davy_Back_Fight), and it challenged me to prove myself in AI.*  
-*Since then, I’ve been competing with models, testing ideas, and pushing my limits in research.*  
+  *I've spent my whole life learning, and I'm still learning every day. Ten years ago, I tackled my first N-Queens problem in PROLOG and it pushed me to prove myself in AI.*
+  *Since then, I've stopped solving for x and started solving for impact. I treat problems like equations: define the variables, test the assumptions, and converge to a clean solution.*
+Today, I'm a Professor-Researcher at ISIS (France), specializing in e-health, AI, and MLOps.
 
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer <br>
